@@ -12,8 +12,9 @@ import { AppComponent } from './app.component';
     BrowserModule,
     MDBBootstrapModule.forRoot()
   ],
-  schemas: [ NO_ERRORS_SCHEMA ],
+  schemas: [NO_ERRORS_SCHEMA],
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
