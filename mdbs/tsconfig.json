@@ -1,7 +1,6 @@
 {  
   "compilerOptions": {
-    "experimentalDecorators": true,
-    "allowJs": true
+    "experimentalDecorators": true
   },
-  "include": ["node_modules/angular-bootstrap-md/**/*.ts",  "src/**/*.ts"] // add this line
+  "include": ["./node_modules/angular-bootstrap-md/**/*.ts",  "src/**/*.ts"]
 }
