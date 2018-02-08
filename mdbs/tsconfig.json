@@ -1,5 +1,4 @@
-{
-  "compileOnSave": {},
+{  
   "compilerOptions": {
   },
   "include": ["node_modules/angular-bootstrap-md/**/*.ts",  "src/**/*.ts"] // add this line
